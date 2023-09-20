@@ -1,5 +1,19 @@
 public class MyArrayList implements ArrayList<Fraction> {
 
+	public add(Fraction input) {
+		
+		//in arraylist add always returns true 
+		return true;
+	}
+	
+	public Fraction remove(Fraction input) {
+		
+	}
+	
+	public boolean contains(Fraction input) {
+		
+	}
+	
 	public void add(Fraction frc) {
 		
 	}
